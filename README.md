@@ -38,12 +38,12 @@ Access the Google Colab notebook for this project [here](https://colab.research.
 ### Usage
 
 1. Prepare the dataset and ensure proper data preprocessing.
-2. Train the VGG16 model using the provided scripts or Jupyter notebooks.
+2. Train the VGG16 model using the Jupyter Notebook.
 3. Evaluate model performance using provided evaluation scripts and visualizations.
 
 ## Contributing
 
-Contributions aimed at enhancing the model's performance and extending its capabilities are welcome.
+Contributions are welcome to enhance the model's performance and extend its capabilities.
 
 ## License
 
