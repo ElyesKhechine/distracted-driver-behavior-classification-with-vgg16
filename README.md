@@ -10,7 +10,7 @@ This project aims to tackle the State Farm Distracted Driver Detection challenge
 
 ## Project Scope
 
-Conducted from December 13, 2023, to December 20, 2023, this was a semester project that I did to validate the "Deep Learning" subject in my 5th and final year of Industrial Computing and Automation (II5) at INSAT. It involved data preparation, model optimization, and performance evaluation phases. 
+Conducted from December 13, 2023, to December 20, 2023, this was a semester project that I did to validate the "Deep Learning" subject in my 5th and final year of Industrial Computing and Automation (IIA5) at INSAT. It involved data preparation, model optimization, and performance evaluation phases. 
 
 ## Technical Details
 
