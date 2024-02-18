@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project aims to tackle the State Farm Distracted Driver Detection challenge on Kaggle. The objective is to classify distracted driver behaviors from dashboard camera images using the VGG16 convolutional neural network architecture.
+This project aims to tackle the [State Farm Distracted Driver Detection challenge on Kaggle](https://www.kaggle.com/competitions/state-farm-distracted-driver-detection). The objective is to classify distracted driver behaviors from dashboard camera images using the VGG16 convolutional neural network architecture.
 
 ## Project Scope
 
